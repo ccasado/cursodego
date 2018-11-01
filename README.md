@@ -1,1 +1,1 @@
-# cursodego
+# cursodego ..
